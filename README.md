@@ -1,1 +1,2 @@
 # Contract
+Contracts for FortunAI
